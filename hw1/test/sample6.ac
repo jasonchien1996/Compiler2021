@@ -1,0 +1,9 @@
+f afa
+f aebr
+f cdife
+i cccc
+cccc = 1
+cdife = 3.5
+aebr = cccc*2.2+cdife
+afa = 5*6+cccc
+p afa
